@@ -11,8 +11,6 @@ int subtracao=num2-num1;
 printf("a subtracao é:%i", subtracao);
 int multiplicacao= num1*num2;
 printf("a multiplicao é:%i", multiplicacao);
-int divisao=num2/num1;
-printf("a divisao é:%i", divisao);
 
     return 0;
 }
